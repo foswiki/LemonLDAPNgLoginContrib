@@ -1,0 +1,4 @@
+!noci
+data/System/LemonLDAPNgLoginContrib.txt 0644 Documentation page
+lib/Foswiki/Contrib/LemonLDAPNgLoginContrib.pm  Perl module 
+lib/Foswiki/Contrib/LemonLDAPNgLoginContrib/Config.spec 0444 Configuration
