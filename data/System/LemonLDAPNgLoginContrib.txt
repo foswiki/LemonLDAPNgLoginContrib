@@ -13,13 +13,13 @@ One line description, required for extensions repository catalog.
 
 ---++ Info
 
-|  Author: | SvenDowideit |
-|  Copyright &copy;: | <!-- e.g. "2011, SlobSoft Gmbh, All Rights Reserved" --> |
+|  Author: | Foswiki:Main.SvenDowideit |
+|  Copyright &copy;: | 2013 SvenDowideit@fosiki.com |
 |  License: | GPL ([[http://www.gnu.org/copyleft/gpl.html][GNU General Public License]]) |
 |  Dependencies: | %$DEPENDENCIES% |
 |  Version: | %$VERSION% |
 |  Change History: | <!-- versions below in reverse order -->&nbsp; |
-|  1.0.0 (XX Mmm 20XX): | Initial version |
+|  1.0.0 (20 Jun 2013): | Initial version |
 |  Home: | http://foswiki.org/Extensions/%TOPIC% |
 |  Support: | http://foswiki.org/Support/%TOPIC% |
 

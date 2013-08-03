@@ -11,7 +11,6 @@ installed version of the Contrib.
 
 =cut
 
-
 package Foswiki::Contrib::LemonLDAPNgLoginContrib;
 
 # Always use strict to enforce variable scoping
@@ -64,7 +63,7 @@ our $VERSION = '1.0';
 #
 our $RELEASE = '1.0';
 
-our $SHORTDESCRIPTION = 'super flexible web single sign on for foswiki';;
+our $SHORTDESCRIPTION = 'super flexible web single sign on for foswiki';
 
 1;
 
@@ -73,13 +72,13 @@ Foswiki - The Free and Open Source Wiki, http://foswiki.org/
 
 Author: SvenDowideit
 
-Copyright (C) 2008-2011 Foswiki Contributors. Foswiki Contributors
+Copyright (C) 2008-2013 Foswiki Contributors. Foswiki Contributors
 are listed in the AUTHORS file in the root of this distribution.
 NOTE: Please extend that file, not this notice.
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
-as published by the Free Software Foundation; either version 2
+as published by the Free Software Foundation; either version 3
 of the License, or (at your option) any later version. For
 more details read LICENSE in the root of this distribution.
 
